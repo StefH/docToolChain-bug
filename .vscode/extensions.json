@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "sciidoctor.asciidoctor-vscode",
+        "systemticks.c4-dsl-extension",
+        "hediet.vscode-drawio",
+        "bierner.markdown-mermaid",
+        "shd101wyy.markdown-preview-enhanced",
+        "jebbs.plantuml",
+        "remote.remote-wsl"
+    ]
+}

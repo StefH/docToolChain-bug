@@ -1,0 +1,9 @@
+@startuml Test
+!include <C4/C4_Container>
+
+Boundary(system, "System") {
+    Container(backend, "Back End")
+    Container_Ext(frontEnd, "Front End")
+}
+
+@enduml
